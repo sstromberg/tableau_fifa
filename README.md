@@ -1,7 +1,6 @@
 ## Using a sample dataset to build a public Tableau dashboard
 
-Tableau public URL to follow, once it's live
-
+Published online at https://public.tableau.com/profile/sam.stromberg#!/vizhome/sample_FIFA/Dashboard1
 
 The motivation for this project is showcase the process of building out a data visualization -- the cleaning and feature engineering needed to prep a dataset so that it does what you're expecting when dropped into Tableau.
 
